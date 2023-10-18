@@ -4,8 +4,8 @@ Automated evaluation of text-to-image generative models using description logic.
 The main T2I model to be evaluated is [Stable Diffusion V1.4](https://huggingface.co/CompVis/stable-diffusion-v1-4).
 
 ## Project Goals
-| Estimated Duration | Task Allotted                                                                              |
-|--------------------|--------------------------------------------------------------------------------------------|
+| Estimated Duration | Tasks                                                                                   |
+|--------------------|-----------------------------------------------------------------------------------------|
 |2 weeks             |Learning description logics                                                              |
 |                    |Playing with Stable Diffusion (and understanding where it is failing)                    | 
 |                    |Reading and analyzing the existing T2I evaluation strategies: DALL-Eval and HRS-Benchmark|
@@ -31,11 +31,11 @@ Can Stable Diffusion generate big apple with the size of an elephant?
 - How to detect such hallucinations?
 
 ## Prompt Generation Methodology
-Prompt generation will take the following format and expand on it to form more complicated prompts:
-C = Color = {Red, Green, Black}
-D = Fruit = {Banana, Apple}
-F = Furniture = {Chair, Table}
-R = Relation = {“on top of”, “and”}
+Prompt generation will take the following format and expand on it to form more complicated prompts:<br>
+C = Color = {Red, Green, Black}<br>
+D = Fruit = {Banana, Apple}<br>
+F = Furniture = {Chair, Table}<br>
+R = Relation = {“on top of”, “and”}<br>
 
 ### Level 1
 C union D = {“red banana”, “black apple”}
