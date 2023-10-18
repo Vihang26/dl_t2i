@@ -25,7 +25,7 @@ There are multiple evaluation methods. Evaluations can be automated using two wa
 There are a few challenges associated with this task:
 1. Bias within evaluation data (like, apple is always associated with red and green colors)
 - Can we create better evaluation dataset?
-- Other kind of biases: apple is always evaluated on the basis of colors, but not sizes
+- Other kinds of biases: apple is always evaluated on the basis of colors, but not sizes
 Can Stable Diffusion generate big apple with the size of an elephant?
 2. Hallucination: If we ask the model to generate “A” then it generates “A + B”.
 - How to detect such hallucinations?
