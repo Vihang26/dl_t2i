@@ -352,103 +352,134 @@ with onto:
     behind = Position('behind')
     in_front_of = Position('in_front_of')
 
-      # defining vegetables
+    # defining vegetables
 
-  has_size=[big, broad, bulky, fat, giant, heavy, huge, lanky, large, little,
-            narrow, plump, short, slim, small, stout, tall, thick, thin, tiny, wide]
+    carrot = Vegetable("carrot",
+                        has_shape=[long, conical, cylindrical, pointy],
+                        has_size=[big, giant, huge, slim, small, tall, thick, thin, tiny],
+                        has_color=[yellow, orange],
+                        has_taste=[sweet, woody, crisp])
+    eggplant= Vegetable("eggplant",
+                        has_shape=[long, pear_shaped],
+                        has_size=[big, bulky, fat, giant, heavy, huge, large, little, small, thick, thin, tiny]
+                        has_color=[purple],
+                        has_taste=[crisp, bitter])
+    cucumber = Vegetable("cucumber",
+                        has_shape=[long, cylindrical],
+                        has_size=[big, bulky, fat, giant, heavy, huge, large, little, short, slim, small, thick, thin, tiny]
+                        has_color=[green],
+                        has_taste=[juicy, crisp, bitter])
+    zucchini = Vegetable("zucchini",
+                        has_shape=[long, cylindrical],
+                        has_size=[big, bulky, fat, giant, heavy, huge, large, little, short, slim, small, thick, thin, tiny]
+                        has_color=[green],
+                        has_taste=[crisp, bland])
+    potato = Vegetable("potato",
+                        has_shape=[round, blocky],
+                        has_size=[big, broad, bulky, fat, giant, heavy, huge, large, little, plump, small, stout, thick, thin, tiny]
+                        has_color=[yellow, white],
+                        has_taste=[sweet, woody])
+    pumpkin = Vegetable("pumpkin",
+                        has_shape=[round, oblate],
+                        has_size=[big, bulky, fat, giant, heavy, huge, large, little, plump, small, stout, tiny]
+                        has_color=[yellow, orange],
+                        has_taste=[sweet, mushy])
+    avocado = Vegetable("avocado",
+                        has_shape=[pear_shaped],
+                        has_size=[big, fat, giant, heavy, huge, large, little, plump, small, stout, tiny]
+                        has_color=[green],
+                        has_taste=[sweet, mushy, woody])
+    mushroom = Vegetable("mushroom",
+                        has_shape=[round],
+                        has_size=[big, bulky, fat, giant, heavy, huge, large, little, plump, small, stout, tiny]
+                        has_color=[gray],
+                        has_taste=[meaty, woody])
+    lettuce = Vegetable("lettuce",
+                        has_shape=[round],
+                        has_size=[big, giant, heavy, huge, large, little, small, tiny]
+                        has_color=[green],
+                        has_taste=[grassy, crispy, sweet, bitter])
+    cabbage = Vegetable("cabbage",
+                        has_shape=[round],
+                        has_size=[big, giant, heavy, huge, large, little, small, tiny]
+                        has_color=[green],
+                        has_taste=[crispy, sweet, grassy])
+    broccoli = Vegetable("broccoli",
+                        has_shape=[round],
+                        has_size=[big, giant, heavy, huge, large, little, small, tiny]
+                        has_color=[green],
+                        has_taste=[grassy, bitter])
+    asparagus= Vegetable("asparagus",
+                        has_shape=[cone, long],
+                        has_size=[big, fat, giant, heavy, huge, large, little, short, slim, small, tall, thick, thin, tiny]
+                        has_color=[green],
+                        has_taste=[grassy, bitter, sweet])
+    bell_pepper = Vegetable("bell_pepper",
+                            has_shape=[blocky],
+                            has_size=[big, broad, bulky, fat, giant, heavy, huge, large, little, plump, slim, small, stout, tiny]
+                            has_color=[green, red, yellow],
+                            has_taste=[spicy, crisp, sweet])
+    chilli = Vegetable("chilli",
+                        has_shape=[pointy, long],
+                        has_size=[big, fat, giant, huge, large, little, short, slim, small, thick, thin, tiny]
+                        has_color=[green, red, yellow],
+                        has_taste=[spicy, crisp])
+    onion = Vegetable("onion",
+                        has_shape=[round],
+                        has_size=[big, bulky, fat, giant, heavy, huge, large, little, small, tall, tiny]
+                        has_color=[white, purple],
+                        has_taste=[pungent, sweet, crisp])
+    spring_onion = Vegetable("spring_onion",
+                            has_shape=[long],
+                            has_size=[giant, heavy, huge, little, slim, small, thick, thin, tiny]
+                            has_color=[white, green],
+                            has_taste=[pungent])
+    garlic = Vegetable("garlic",
+                        has_shape=[round, spherical],
+                        has_size=[big, broad, bulky, fat, giant, heavy, huge, large, little, small, tiny]
+                        has_color=[white],
+                        has_taste=[sweet])
+    leek = Vegetable("leek",
+                    has_shape=[long, cylindrical],
+                    has_size=[big, giant, large, little, slim, small, stout, tall, thick, thin, tiny]
+                    has_color=[green],
+                    has_taste=[sweet, crispy])
+    parsley = Vegetable("parsley",
+                        has_shape=[long],
+                        has_size=[big, giant, huge, large, little, short, small, thin, tiny, wide]
+                        has_color=[green],
+                        has_taste=[herbal, woody])
+    
+    # defining fruits
 
-  carrot = Vegetable("carrot",
-                     has_shape=[long, conical, cylindrical, pointy],
-                     has_size=[big, giant, huge, slim, small, tall, thick, thin, tiny],
-                     has_color=[yellow, orange],
-                     has_taste=[sweet, woody, crisp])
-  eggplant= Vegetable("eggplant",
-                      has_shape=[long, pear_shaped],
-                      has_size=[big, bulky, fat, giant, heavy, huge, large, little, small, thick, thin, tiny]
-                      has_color=[purple],
-                      has_taste=[crisp, bitter])
-  cucumber = Vegetable("cucumber",
-                       has_shape=[long, cylindrical],
-                       has_size=[big, bulky, fat, giant, heavy, huge, large, little, short, slim, small, thick, thin, tiny]
-                       has_color=[green],
-                       has_taste=[juicy, crisp, bitter])
-  zucchini = Vegetable("zucchini",
-                       has_shape=[long, cylindrical],
-                       has_size=[big, bulky, fat, giant, heavy, huge, large, little, short, slim, small, thick, thin, tiny]
-                       has_color=[green],
-                       has_taste=[crisp, bland])
-  potato = Vegetable("potato",
-                     has_shape=[round, blocky],
-                     has_size=[big, broad, bulky, fat, giant, heavy, huge, large, little, plump, small, stout, thick, thin, tiny]
-                     has_color=[yellow, white],
-                     has_taste=[sweet, woody])
-  pumpkin = Vegetable("pumpkin",
-                      has_shape=[round, oblate],
-                      has_size=[big, bulky, fat, giant, heavy, huge, large, little, plump, small, stout, tiny]
-                      has_color=[yellow, orange],
-                      has_taste=[sweet, mushy])
-  avocado = Vegetable("avocado",
-                      has_shape=[pear_shaped],
-                      has_size=[big, fat, giant, heavy, huge, large, little, plump, small, stout, tiny]
-                      has_color=[green],
-                      has_taste=[sweet, mushy, woody])
-  mushroom = Vegetable("mushroom",
-                       has_shape=[round],
-                       has_size=[big, bulky, fat, giant, heavy, huge, large, little, plump, small, stout, tiny]
-                       has_color=[gray],
-                       has_taste=[meaty, woody])
-  lettuce = Vegetable("lettuce",
-                      has_shape=[round],
-                      has_size=[big, giant, heavy, huge, large, little, small, tiny]
-                      has_color=[green],
-                      has_taste=[grassy, crispy, sweet, bitter])
-  cabbage = Vegetable("cabbage",
-                      has_shape=[round],
-                      has_size=[big, giant, heavy, huge, large, little, small, tiny]
-                      has_color=[green],
-                      has_taste=[crispy, sweet, grassy])
-  broccoli = Vegetable("broccoli",
-                       has_shape=[round],
-                       has_size=[big, giant, heavy, huge, large, little, small, tiny]
-                       has_color=[green],
-                       has_taste=[grassy, bitter])
-  asparagus= Vegetable("asparagus",
-                       has_shape=[cone, long],
-                       has_size=[big, fat, giant, heavy, huge, large, little, short, slim, small, tall, thick, thin, tiny]
-                       has_color=[green],
-                       has_taste=[grassy, bitter, sweet])
-  bell_pepper = Vegetable("bell_pepper",
-                          has_shape=[blocky],
-                          has_size=[big, broad, bulky, fat, giant, heavy, huge, large, little, plump, slim, small, stout, tiny]
-                          has_color=[green, red, yellow],
-                          has_taste=[spicy, crisp, sweet])
-  chilli = Vegetable("chilli",
-                     has_shape=[pointy, long],
-                     has_size=[big, fat, giant, huge, large, little, short, slim, small, thick, thin, tiny]
-                     has_color=[green, red, yellow],
-                     has_taste=[spicy, crisp])
-  onion = Vegetable("onion",
-                    has_shape=[round],
-                    has_size=[big, bulky, fat, giant, heavy, huge, large, little, small, tall, tiny]
-                    has_color=[white, purple],
-                    has_taste=[pungent, sweet, crisp])
-  spring_onion = Vegetable("spring_onion",
-                           has_shape=[long],
-                           has_size=[giant, heavy, huge, little, slim, small, thick, thin, tiny]
-                           has_color=[white, green],
-                           has_taste=[pungent])
-  garlic = Vegetable("garlic",
-                     has_shape=[round, spherical],
-                     has_size=[big, broad, bulky, fat, giant, heavy, huge, large, little, small, tiny]
-                     has_color=[white],
-                     has_taste=[sweet])
-  leek = Vegetable("leek",
-                   has_shape=[long, cylindrical],
-                   has_size=[big, giant, large, little, slim, small, stout, tall, thick, thin, tiny]
-                   has_color=[green],
-                   has_taste=[sweet, crispy])
-  parsley = Vegetable("parsley",
-                      has_shape=[long],
-                      has_size=[big, giant, huge, large, little, short, small, thin, tiny, wide]
-                      has_color=[green],
-                      has_taste=[herbal, woody])
+    apple 
+    mango 
+    banana 
+    strawberry 
+    pineapple 
+    lime 
+    watermelon 
+    pomegranate
+
+    # defining beverages
+
+    water 
+    coffee
+    tea
+    hot_chocolate
+    milkshake
+    juice
+
+    # defining dishes
+
+    sandwich
+    burger
+    
+    pizza
+    cake
+    pie
+    meatball
+    soup
+
+    
+    
