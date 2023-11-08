@@ -1,42 +1,24 @@
 colors = [
     'purple',
     'pink',
-    'neon pink',
-    'pastel pink',
-    'dark blue',
-    'light blue',
-    'neon blue',
-    'pastel blue',
-    'teal',
-    'dark green',
-    'light green',
-    'neon green',
-    'pastel green',
+    'blue',
+    'green',
     'yellow',
-    'amber',
     'orange',
     'red',
-    'maroon',
     'brown',
     'black',
     'gray',
-    'white',
-    'gold',
-    'silver',
-    'beige'
+    'white'
 ]
 
-shape = [
+shapes = [
     'square',
     'rectangular',
     'circular',
     'triangular',
     'round',
-    'blocky',
     'pointy',
-    'pear_shaped',
-    'conical',
-    'cone',
     'cylindrical',
     'spherical',
     'solid',
@@ -44,23 +26,15 @@ shape = [
     'oblate'
 ]
 
-size = [
+sizes = [
     'big',
-    'broad',
-    'bulky',
     'fat',
-    'giant',
-    'heavy',
     'huge',
-    'lanky',
-    'large',
     'little',
     'narrow',
-    'plump',
     'short',
     'slim',
     'small',
-    'stout',
     'tall',
     'thick',
     'thin',
@@ -75,41 +49,19 @@ food_properties = [
     'unripe'
 ]
 
-emotion = [
+emotions = [
     'bold',
     'brave',
     'cheerful',
-    'comfortable',
     'excited',
-    'festive',
-    'optimistic',
-    'proud',
-    'wonderful',
     'happy',
-    'joyful',
-    'serene',
     'upbeat',
     'dirty',
-    'dejected',
-    'irritated',
-    'pessimistic',
-    'tearful',
-    'tense',
     'tired',
-    'weak',
     'angry',
-    'gloomy',
-    'grumpy',
-    'mad',
     'mad',
     'sad',
-    'guilty',
-    'anxious',
-    'cautious',
-    'shy',
-    'calm',
-    'confident',
-    'surprised'
+    'calm'
 ]
 
 numbers = [
@@ -117,12 +69,7 @@ numbers = [
     'two',
     'three',
     'four',
-    'five',
-    'six',
-    'seven',
-    'eight',
-    'nine',
-    'ten',
+    'five'
 ]
 
 quantity = [
