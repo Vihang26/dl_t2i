@@ -1,34 +1,3 @@
-body_part = [
-    'ankle',
-    'arm',
-    'back',
-    'belly',
-    'bone',
-    'ear',
-    'neck',
-    'lips',
-    'face',
-    'hand',
-    'tongue',
-    'foot',
-    'nose',
-    'finger',
-    'shoulder',
-    'knee',
-    'cheek',
-    'toe',
-    'elbow',
-    'mouth',
-    'knuckle',
-    'jaw',
-    'hair',
-    'nails'
-    'teeth',
-    'eyelashes',
-    'eyebrows',
-    'chin'
-]
-
 planet = [
     'Mercury',
     'Venus',
@@ -41,65 +10,17 @@ planet = [
     'Pluto'
 ]
 
-constellation = [
-    'Ursa Major',
-    'Orion',
-    'Leo',
-    'Taurus',
-    'Cassiopeia',
-    'Scorpius',
-    'Aries',
-    'Pisces',
-    'Lyra',
-    'Crux',
-    'Capricornus',
-    'Bootes',
-    'Libra',
-    'Sagittarius',
-    'Draco',
-    'Auriga',
-    'Antlia',
-    'Corona Borealis',
-    'Serpens',
-    'Canis Major'
-]
-
 star = [
     'sun',
-    'star',
-    'star cluster',
-    'falling stars',
-    'binary stars'
-]
-
-other_bodies = [
-    'asteroid',
-    'comet',
-    'galaxy',
-    'moon',
-    'satellite',
-    'aliens',
-    'orbit',
-    'rover',
-    'Hubble Space Telescope'
+    'star'
 ]
 
 party = [
-    'viewing party',
-    'wine tasting party',
     'bachelor party',
-    'bachelorette party',
     'dance party',
-    'game night party',
-    'dinner party',
-    'pizza party',
-    'sleepover party',
-    'housewarming party',
     'karaoke party',
     'back to school party',
     'graduation party',
-    'game day party',
-    'luau party',
     'office party',
     'costume party'
 ]
@@ -110,33 +31,15 @@ holiday = [
     '4th of July',
     'Easter',
     'Halloween',
-    'Hanukkah',
-    'Thanksgiving',
-    'Valentine\'s Day',
-    'Chinese New Year',
-    'Mardi Gras',
-    'St. Patrick\'s Day',
     'Ramadan',
-    'Earth Day',
-    'Cinco de Mayo',
-    'Eid',
     'Diwali'
 ]
 
 game = [
     'football game',
-    'soccer game',
     'basketball game',
-    'ice hockey match',
-    'badminton match',
     'tennis match',
-    'volleyball match',
-    'lacrosse match',
-    'table tennis match',
-    'F1',
-    'boxing match',
     'chess game',
-    'athletics'
     'cricket match'
 ]
 
@@ -145,140 +48,72 @@ concert = [
     'pop concert',
     'jazz concert',
     'EDM concert',
-    'folk concert',
-    'country music concert',
-    'R&B concert'
-    'classical music concert',
-    'opera',
-    'orchestra',
-    'recital'
+    'orchestra'
 ]
 
-vegetable = [
-    'asparagus', 
+vegetable = [ 
     'broccoli', 
     'cabbage', 
     'cauliflower', 
-    'celery', 
     'lettuce', 
     'spinach', 
-    'basil', 
-    'coriander', 
-    'thyme', 
-    'rosemary',
-    'bean',
-    'kidney bean',
-    'chickpea',
     'pea',
     'mushroom',
     'okra',
     'onion',
     'garlic',
-    'shallot',
-    'spring onion',
     'bell pepper',
     'chilli',
-    'jalapeno',
-    'radish',
-    'beetroot',
     'carrot',
-    'ginger',
-    'turnip',
     'potato',
     'tomato',
-    'zucchini',
-    'butternut squash',
     'pumpkin',
     'cucumber'
 ]
 
 fruit = [
     'apple',
-    'apricot',
-    'avocado',
     'banana',
     'blueberry',
     'blackberry',
-    'custard apple',
     'cherry',
     'coconut',
-    'cranberry',
-    'date',
-    'dragonfruit',
-    'durian',
-    'fig',
-    'gooseberry',
-    'grape',
-    'grapefruit',
-    'guava',
-    'jackfruit',
-    'plum',
     'kiwi',
     'lime',
-    'lemon',
-    'lychee',
     'mango',
-    'cantaloupe',
     'watermelon',
     'orange',
-    'mulberry',
-    'papaya',
-    'passionfruit',
     'peach',
-    'pear',
-    'persimmon',
-    'raspberry',
     'rambutan',
-    'strawberry',
-    'olive'
+    'strawberry'
 ]
 
 beverage = [
     'water',
     'milk',
-    'tea',
     'coffee',
-    'sparkling water',
-    'soda',
-    'hot chocolate',
-    'juice',
-    'smoothie',
-    'milkshake',
-    'mocktail'
+    'juice'
 ]
 
 dish = [
-    'bruschetta',
     'bagel',
-    'baked beans',
     'bread',
     'cake',
     'cheese',
     'chips',
     'cookie',
     'cupcake',
-    'cereal',
-    'curry',
     'donut',
     'dumpling',
-    'french toast',
     'falafel',
-    'gnocchi',
-    'guacamole',
-    'hot dog',
     'burger',
     'ice cream',
-    'jelly',
-    'lasagna',
     'noodles',
     'pizza',
     'pancake',
-    'spaghetti',
     'sandwich',
     'samosa',
-    'toast',
-    'waffle',
-    'yogurt'
+    'waffle'
 ]
 
 furniture = [
@@ -287,66 +122,11 @@ furniture = [
     'bed',
     'couch',
     'desk',
-    'nightstand',
     'bookshelf',
-    'chest of drawers',
     'wardrobe',
     'armchair',
     'bench',
-    'shelf',
-    'ottoman',
-    'futon',
-    'cupboard'
-]
-
-city = [
-    'London',
-    'Paris',
-    'New York City',
-    'Tokyo',
-    'Singapore',
-    'Dubai',
-    'San Francisco',
-    'Barcelona',
-    'Amsterdam',
-    'Seoul',
-    'Moscow',
-    'New Delhi',
-    'Reykjavik',
-    'Rome',
-    'Washington DC',
-    'Beijing',
-    'Istanbul',
-    'Sydney',
-    'Mexico City'
-]
-
-country = [
-    'Italy',
-    'Spain',
-    'France',
-    'Greece',
-    'Switzerland',
-    'Austria',
-    'Thailand',
-    'Nigeria',
-    'Egypt',
-    'Japan',
-    'Portugal',
-    'India',
-    'Turkey',
-    'Russia',
-    'Brazil',
-    'Peru',
-    'Australia',
-    'China',
-    'South Korea',
-    'Sri Lanka',
-    'New Zealand',
-    'Norway',
-    'Morocco',
-    'UK',
-    'USA'
+    'shelf'
 ]
 
 terrain = [
@@ -356,18 +136,10 @@ terrain = [
     'hill',
     'desert',
     'forest',
-    'valley',
-    'marsh',
     'river',
     'ocean',
-    'waterfall',
-    'butte',
     'glacier',
     'cliff',
-    'canyon',
-    'steppe',
-    'ridge',
-    'swamp',
     'grassland'
 ]
 
@@ -392,22 +164,11 @@ monument = [
     'Eiffel Tower',
     'Taj Mahal',
     'Burj Khalifa',
-    'Machu Picchu',
     'The Great Wall of China',
-    'Mount Rushmore',
-    'The Acropolis',
-    'Golden Gate Bridge',
     'The Leaning Tower of Pisa',
-    'Pyramids',
-    'Buckingham Palace',
-    'Big Ben',
     'Christ the Redeemer',
     'The Colosseum',
-    'Statue of Liberty',
-    'Merlion',
-    'Petra',
-    'Stone Henge',
-    'Vatican'
+    'Statue of Liberty'
 ]
 
 season = [
@@ -420,56 +181,30 @@ season = [
 stationery = [
     'pencil',
     'pen',
-    'highlighter',
     'notebook',
-    'post-it notes',
-    'stapler',
     'scissors',
-    'paper clips',
-    'sharpener',
     'ruler',
-    'eraser',
     'paper',
-    'glue stick',
-    'colored pencils',
-    'way crayons',
     'paintbrushes',
     'envelope',
-    'calculator',
-    'tape',
-    'clipboard',
-    'calculator'
+    'tape'
 ]
 
 vehicle = [
-    'van',
-    'taxi',
-    'police car',
+    'car',
     'bus',
     'ambulance',
     'skateboard',
     'bicycle',
-    'mountain bike',
-    'scooter',
     'motorcycle',
     'fire engine',
-    'crane',
-    'forklift',
-    'tractor',
-    'garbage truck',
-    'cement mixer',
-    'subway',
-    'aerial tramway',
+    'truck',
     'helicopter',
     'airplane',
     'hot-air balloon',
-    'tram',
-    'rowboat',
     'boat',
     'ship',
-    'speedboat',
     'train',
-    'bullet train',
     'rocket',
     'rickshaw'
 ]
@@ -477,17 +212,12 @@ vehicle = [
 weather = [
     'sunny',
     'clear',
-    'partially cloudy',
     'cloudy',
     'overcast',
     'rain',
-    'drizzle',
     'snow',
-    'stormy',
     'tornado',
-    'thunderstorm',
     'fog',
-    'hurricane',
     'sandstorm',
     'hailstorm'
 ]

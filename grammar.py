@@ -6,41 +6,22 @@ verbs = [
     'going',
     'getting',
     'making',
-    'thinking',
     'taking',
     'seeing',
-    'coming',
     'using',
     'giving',
-    'working',
-    'calling',
     'asking',
     'holding',
     'putting',
     'pushing',
-    'pulling',
-    'placing',
-    'walking',
     'running',
     'dancing',
     'singing',
-    'keeping',
     'eating',
-    'cooking',
     'finding',
-    'moving',
-    'bringing',
     'writing',
     'sitting',
-    'sleeping',
-    'standing',
-    'meeting',
-    'watching',
-    'winning',
-    'losing',
-    'buying',
     'wearing',
-    'baking'
 ]
 
 prepositions = [
@@ -64,10 +45,4 @@ prepositions = [
     'next to',
     'behind',
     'in front of'
-]
-
-articles = [
-    'a',
-    'an',
-    'the'
 ]
