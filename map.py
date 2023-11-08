@@ -11,14 +11,14 @@ monument, season, stationery, vehicle, weather
 # mapping properties with objects:
 '''
 colors: body_part, planet, constellation, star, other_bodies, vegetable, fruit, beverage, dish, furniture,
-        terrain, building, monument, season, stationery, vehicle  
+        terrain, building, monument, season, stationery, vehicle, animals  
 shapes: planet, constellation, other_bodies, vegetable, fruit, dish, furniture, terrain, building, monument, stationery
 sizes: body_part, planet, constellation, star, other_bodies, party, holiday, game, concert, vegetable, fruit, 
-        beverage, dish, furniture, terrain, building, monument, stationery, vehicle
+        beverage, dish, furniture, terrain, building, monument, stationery, vehicle, animals 
 food_properties: vegetable, fruit, beverage, dish
-emotions: party, holiday, game, concert, season, weather
+emotions: party, holiday, game, concert, season, weather, celebrities, jobs, animals 
 numbers: body_part, planet, constellation, star, other_bodies, game, concert, vegetable, fruit,
-        beverage, dish, furniture, terrain, building, monument, stationery, vehicle
+        beverage, dish, furniture, terrain, building, monument, stationery, vehicle, celebrities, jobs, animals
 quantity: beverage, dish 
 
 '''
@@ -41,7 +41,10 @@ objs = [
     objects.season, 
     objects.stationery, 
     objects.vehicle, 
-    objects.weather
+    objects.weather,
+    objects.celebrities,
+    objects.jobs,
+    objects.animals
 ]
 
 objs_with_color = [
@@ -57,7 +60,8 @@ objs_with_color = [
     objects.monument, 
     objects.season, 
     objects.stationery, 
-    objects.vehicle  
+    objects.vehicle,
+    objects.animals  
 ]
 
 objs_with_shape = [
@@ -88,7 +92,8 @@ objs_with_size = [
     objects.building, 
     objects.monument, 
     objects.stationery, 
-    objects.vehicle
+    objects.vehicle,
+    objects.animals
 ]
 
 objs_with_food_properties = [
@@ -102,7 +107,10 @@ objs_with_emotions = [
     objects.game, 
     objects.concert, 
     objects.season, 
-    objects.weather
+    objects.weather,
+    objects.celebrities,
+    objects.jobs,
+    objects.animals
 ]
 
 objs_with_numbers = [
@@ -119,7 +127,10 @@ objs_with_numbers = [
     objects.building, 
     objects.monument, 
     objects.stationery, 
-    objects.vehicle
+    objects.vehicle,
+    objects.celebrities,
+    objects.jobs,
+    objects.animals
 ]
 
 objs_with_quantity = [

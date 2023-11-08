@@ -210,14 +210,46 @@ vehicle = [
 ]
 
 weather = [
-    'sunny',
-    'clear',
-    'cloudy',
-    'overcast',
+    'sunny weather',
+    'clear sky',
+    'cloudy sky',
+    'overcast sky',
     'rain',
     'snow',
     'tornado',
     'fog',
     'sandstorm',
     'hailstorm'
+]
+
+celebrities = [
+    'Rafael Nadal',
+    'Taylor Swift',
+    'Joe Biden',
+    'Bill Gates',
+    'Meryl Streep',
+    'Marie Curie'
+]
+
+jobs = [
+    'chef',
+    'farmer',
+    'lawyer',
+    'engineer',
+    'doctor',
+    'pilot',
+    'teacher',
+    'receptionist'
+]
+
+animals = [
+    'dog',
+    'cat',
+    'horse',
+    'penguin',
+    'whale',
+    'mouse',
+    'spider',
+    'butterfly',
+    'bear'
 ]

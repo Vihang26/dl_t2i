@@ -1,7 +1,4 @@
-import map
 import grammar
-import properties
-import level1_rules
 
 # association rules using description logics
 
@@ -29,5 +26,5 @@ with open("level3.txt", "w") as level3_file, open("level1.txt", "r") as level1_f
                 for phrase2 in head2:
                     level3_file.write(phrase1 + " " + preposition + " " + phrase2)
                     level3_file.write("\n")
-                    
+
     dl_level3()

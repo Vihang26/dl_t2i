@@ -134,6 +134,15 @@ a purple ship
 a purple train
 a purple rocket
 a purple rickshaw
+a purple dog
+a purple cat
+a purple horse
+a purple penguin
+a purple whale
+a purple mouse
+a purple spider
+a purple butterfly
+a purple bear
 a pink Mercury
 a pink Venus
 a pink Earth
@@ -270,6 +279,15 @@ a pink ship
 a pink train
 a pink rocket
 a pink rickshaw
+a pink dog
+a pink cat
+a pink horse
+a pink penguin
+a pink whale
+a pink mouse
+a pink spider
+a pink butterfly
+a pink bear
 a blue Mercury
 a blue Venus
 a blue Earth
@@ -406,6 +424,15 @@ a blue ship
 a blue train
 a blue rocket
 a blue rickshaw
+a blue dog
+a blue cat
+a blue horse
+a blue penguin
+a blue whale
+a blue mouse
+a blue spider
+a blue butterfly
+a blue bear
 a green Mercury
 a green Venus
 a green Earth
@@ -542,6 +569,15 @@ a green ship
 a green train
 a green rocket
 a green rickshaw
+a green dog
+a green cat
+a green horse
+a green penguin
+a green whale
+a green mouse
+a green spider
+a green butterfly
+a green bear
 a yellow Mercury
 a yellow Venus
 a yellow Earth
@@ -678,6 +714,15 @@ a yellow ship
 a yellow train
 a yellow rocket
 a yellow rickshaw
+a yellow dog
+a yellow cat
+a yellow horse
+a yellow penguin
+a yellow whale
+a yellow mouse
+a yellow spider
+a yellow butterfly
+a yellow bear
 an orange Mercury
 an orange Venus
 an orange Earth
@@ -814,6 +859,15 @@ an orange ship
 an orange train
 an orange rocket
 an orange rickshaw
+an orange dog
+an orange cat
+an orange horse
+an orange penguin
+an orange whale
+an orange mouse
+an orange spider
+an orange butterfly
+an orange bear
 a square Mercury
 a square Venus
 a square Earth
@@ -1630,6 +1684,15 @@ a big ship
 a big train
 a big rocket
 a big rickshaw
+a big dog
+a big cat
+a big horse
+a big penguin
+a big whale
+a big mouse
+a big spider
+a big butterfly
+a big bear
 a fat Mercury
 a fat Venus
 a fat Earth
@@ -1786,6 +1849,15 @@ a fat ship
 a fat train
 a fat rocket
 a fat rickshaw
+a fat dog
+a fat cat
+a fat horse
+a fat penguin
+a fat whale
+a fat mouse
+a fat spider
+a fat butterfly
+a fat bear
 a huge Mercury
 a huge Venus
 a huge Earth
@@ -1942,6 +2014,15 @@ a huge ship
 a huge train
 a huge rocket
 a huge rickshaw
+a huge dog
+a huge cat
+a huge horse
+a huge penguin
+a huge whale
+a huge mouse
+a huge spider
+a huge butterfly
+a huge bear
 a little Mercury
 a little Venus
 a little Earth
@@ -2098,6 +2179,15 @@ a little ship
 a little train
 a little rocket
 a little rickshaw
+a little dog
+a little cat
+a little horse
+a little penguin
+a little whale
+a little mouse
+a little spider
+a little butterfly
+a little bear
 a narrow Mercury
 a narrow Venus
 a narrow Earth
@@ -2254,6 +2344,15 @@ a narrow ship
 a narrow train
 a narrow rocket
 a narrow rickshaw
+a narrow dog
+a narrow cat
+a narrow horse
+a narrow penguin
+a narrow whale
+a narrow mouse
+a narrow spider
+a narrow butterfly
+a narrow bear
 a short Mercury
 a short Venus
 a short Earth
@@ -2410,6 +2509,15 @@ a short ship
 a short train
 a short rocket
 a short rickshaw
+a short dog
+a short cat
+a short horse
+a short penguin
+a short whale
+a short mouse
+a short spider
+a short butterfly
+a short bear
 a purple Mercury
 a purple Venus
 a purple Earth
@@ -2546,6 +2654,15 @@ a purple ship
 a purple train
 a purple rocket
 a purple rickshaw
+a purple dog
+a purple cat
+a purple horse
+a purple penguin
+a purple whale
+a purple mouse
+a purple spider
+a purple butterfly
+a purple bear
 a pink Mercury
 a pink Venus
 a pink Earth
@@ -2682,6 +2799,15 @@ a pink ship
 a pink train
 a pink rocket
 a pink rickshaw
+a pink dog
+a pink cat
+a pink horse
+a pink penguin
+a pink whale
+a pink mouse
+a pink spider
+a pink butterfly
+a pink bear
 a blue Mercury
 a blue Venus
 a blue Earth
@@ -2818,6 +2944,15 @@ a blue ship
 a blue train
 a blue rocket
 a blue rickshaw
+a blue dog
+a blue cat
+a blue horse
+a blue penguin
+a blue whale
+a blue mouse
+a blue spider
+a blue butterfly
+a blue bear
 a green Mercury
 a green Venus
 a green Earth
@@ -2954,6 +3089,15 @@ a green ship
 a green train
 a green rocket
 a green rickshaw
+a green dog
+a green cat
+a green horse
+a green penguin
+a green whale
+a green mouse
+a green spider
+a green butterfly
+a green bear
 a yellow Mercury
 a yellow Venus
 a yellow Earth
@@ -3090,6 +3234,15 @@ a yellow ship
 a yellow train
 a yellow rocket
 a yellow rickshaw
+a yellow dog
+a yellow cat
+a yellow horse
+a yellow penguin
+a yellow whale
+a yellow mouse
+a yellow spider
+a yellow butterfly
+a yellow bear
 an orange Mercury
 an orange Venus
 an orange Earth
@@ -3226,6 +3379,15 @@ an orange ship
 an orange train
 an orange rocket
 an orange rickshaw
+an orange dog
+an orange cat
+an orange horse
+an orange penguin
+an orange whale
+an orange mouse
+an orange spider
+an orange butterfly
+an orange bear
 a rotten broccoli
 a rotten cabbage
 a rotten cauliflower
@@ -3455,6 +3617,15 @@ a purple ship
 a purple train
 a purple rocket
 a purple rickshaw
+a purple dog
+a purple cat
+a purple horse
+a purple penguin
+a purple whale
+a purple mouse
+a purple spider
+a purple butterfly
+a purple bear
 a pink Mercury
 a pink Venus
 a pink Earth
@@ -3591,6 +3762,15 @@ a pink ship
 a pink train
 a pink rocket
 a pink rickshaw
+a pink dog
+a pink cat
+a pink horse
+a pink penguin
+a pink whale
+a pink mouse
+a pink spider
+a pink butterfly
+a pink bear
 a blue Mercury
 a blue Venus
 a blue Earth
@@ -3727,6 +3907,15 @@ a blue ship
 a blue train
 a blue rocket
 a blue rickshaw
+a blue dog
+a blue cat
+a blue horse
+a blue penguin
+a blue whale
+a blue mouse
+a blue spider
+a blue butterfly
+a blue bear
 a green Mercury
 a green Venus
 a green Earth
@@ -3863,6 +4052,15 @@ a green ship
 a green train
 a green rocket
 a green rickshaw
+a green dog
+a green cat
+a green horse
+a green penguin
+a green whale
+a green mouse
+a green spider
+a green butterfly
+a green bear
 a yellow Mercury
 a yellow Venus
 a yellow Earth
@@ -3999,6 +4197,15 @@ a yellow ship
 a yellow train
 a yellow rocket
 a yellow rickshaw
+a yellow dog
+a yellow cat
+a yellow horse
+a yellow penguin
+a yellow whale
+a yellow mouse
+a yellow spider
+a yellow butterfly
+a yellow bear
 an orange Mercury
 an orange Venus
 an orange Earth
@@ -4135,6 +4342,15 @@ an orange ship
 an orange train
 an orange rocket
 an orange rickshaw
+an orange dog
+an orange cat
+an orange horse
+an orange penguin
+an orange whale
+an orange mouse
+an orange spider
+an orange butterfly
+an orange bear
 a bold bachelor party
 a bold dance party
 a bold karaoke party
@@ -4163,16 +4379,39 @@ a bold fall
 a bold winter
 a bold spring
 a bold summer
-a bold sunny
-a bold clear
-a bold cloudy
-a bold overcast
+a bold sunny weather
+a bold clear sky
+a bold cloudy sky
+a bold overcast sky
 a bold rain
 a bold snow
 a bold tornado
 a bold fog
 a bold sandstorm
 a bold hailstorm
+a bold Rafael Nadal
+a bold Taylor Swift
+a bold Joe Biden
+a bold Bill Gates
+a bold Meryl Streep
+a bold Marie Curie
+a bold chef
+a bold farmer
+a bold lawyer
+a bold engineer
+a bold doctor
+a bold pilot
+a bold teacher
+a bold receptionist
+a bold dog
+a bold cat
+a bold horse
+a bold penguin
+a bold whale
+a bold mouse
+a bold spider
+a bold butterfly
+a bold bear
 a brave bachelor party
 a brave dance party
 a brave karaoke party
@@ -4201,16 +4440,39 @@ a brave fall
 a brave winter
 a brave spring
 a brave summer
-a brave sunny
-a brave clear
-a brave cloudy
-a brave overcast
+a brave sunny weather
+a brave clear sky
+a brave cloudy sky
+a brave overcast sky
 a brave rain
 a brave snow
 a brave tornado
 a brave fog
 a brave sandstorm
 a brave hailstorm
+a brave Rafael Nadal
+a brave Taylor Swift
+a brave Joe Biden
+a brave Bill Gates
+a brave Meryl Streep
+a brave Marie Curie
+a brave chef
+a brave farmer
+a brave lawyer
+a brave engineer
+a brave doctor
+a brave pilot
+a brave teacher
+a brave receptionist
+a brave dog
+a brave cat
+a brave horse
+a brave penguin
+a brave whale
+a brave mouse
+a brave spider
+a brave butterfly
+a brave bear
 a cheerful bachelor party
 a cheerful dance party
 a cheerful karaoke party
@@ -4239,16 +4501,39 @@ a cheerful fall
 a cheerful winter
 a cheerful spring
 a cheerful summer
-a cheerful sunny
-a cheerful clear
-a cheerful cloudy
-a cheerful overcast
+a cheerful sunny weather
+a cheerful clear sky
+a cheerful cloudy sky
+a cheerful overcast sky
 a cheerful rain
 a cheerful snow
 a cheerful tornado
 a cheerful fog
 a cheerful sandstorm
 a cheerful hailstorm
+a cheerful Rafael Nadal
+a cheerful Taylor Swift
+a cheerful Joe Biden
+a cheerful Bill Gates
+a cheerful Meryl Streep
+a cheerful Marie Curie
+a cheerful chef
+a cheerful farmer
+a cheerful lawyer
+a cheerful engineer
+a cheerful doctor
+a cheerful pilot
+a cheerful teacher
+a cheerful receptionist
+a cheerful dog
+a cheerful cat
+a cheerful horse
+a cheerful penguin
+a cheerful whale
+a cheerful mouse
+a cheerful spider
+a cheerful butterfly
+a cheerful bear
 an excited bachelor party
 an excited dance party
 an excited karaoke party
@@ -4277,16 +4562,39 @@ an excited fall
 an excited winter
 an excited spring
 an excited summer
-an excited sunny
-an excited clear
-an excited cloudy
-an excited overcast
+an excited sunny weather
+an excited clear sky
+an excited cloudy sky
+an excited overcast sky
 an excited rain
 an excited snow
 an excited tornado
 an excited fog
 an excited sandstorm
 an excited hailstorm
+an excited Rafael Nadal
+an excited Taylor Swift
+an excited Joe Biden
+an excited Bill Gates
+an excited Meryl Streep
+an excited Marie Curie
+an excited chef
+an excited farmer
+an excited lawyer
+an excited engineer
+an excited doctor
+an excited pilot
+an excited teacher
+an excited receptionist
+an excited dog
+an excited cat
+an excited horse
+an excited penguin
+an excited whale
+an excited mouse
+an excited spider
+an excited butterfly
+an excited bear
 a happy bachelor party
 a happy dance party
 a happy karaoke party
@@ -4315,16 +4623,39 @@ a happy fall
 a happy winter
 a happy spring
 a happy summer
-a happy sunny
-a happy clear
-a happy cloudy
-a happy overcast
+a happy sunny weather
+a happy clear sky
+a happy cloudy sky
+a happy overcast sky
 a happy rain
 a happy snow
 a happy tornado
 a happy fog
 a happy sandstorm
 a happy hailstorm
+a happy Rafael Nadal
+a happy Taylor Swift
+a happy Joe Biden
+a happy Bill Gates
+a happy Meryl Streep
+a happy Marie Curie
+a happy chef
+a happy farmer
+a happy lawyer
+a happy engineer
+a happy doctor
+a happy pilot
+a happy teacher
+a happy receptionist
+a happy dog
+a happy cat
+a happy horse
+a happy penguin
+a happy whale
+a happy mouse
+a happy spider
+a happy butterfly
+a happy bear
 an upbeat bachelor party
 an upbeat dance party
 an upbeat karaoke party
@@ -4353,16 +4684,39 @@ an upbeat fall
 an upbeat winter
 an upbeat spring
 an upbeat summer
-an upbeat sunny
-an upbeat clear
-an upbeat cloudy
-an upbeat overcast
+an upbeat sunny weather
+an upbeat clear sky
+an upbeat cloudy sky
+an upbeat overcast sky
 an upbeat rain
 an upbeat snow
 an upbeat tornado
 an upbeat fog
 an upbeat sandstorm
 an upbeat hailstorm
+an upbeat Rafael Nadal
+an upbeat Taylor Swift
+an upbeat Joe Biden
+an upbeat Bill Gates
+an upbeat Meryl Streep
+an upbeat Marie Curie
+an upbeat chef
+an upbeat farmer
+an upbeat lawyer
+an upbeat engineer
+an upbeat doctor
+an upbeat pilot
+an upbeat teacher
+an upbeat receptionist
+an upbeat dog
+an upbeat cat
+an upbeat horse
+an upbeat penguin
+an upbeat whale
+an upbeat mouse
+an upbeat spider
+an upbeat butterfly
+an upbeat bear
 one Mercury
 one Venus
 one Earth
@@ -4505,6 +4859,29 @@ one ship
 one train
 one rocket
 one rickshaw
+one Rafael Nadal
+one Taylor Swift
+one Joe Biden
+one Bill Gates
+one Meryl Streep
+one Marie Curie
+one chef
+one farmer
+one lawyer
+one engineer
+one doctor
+one pilot
+one teacher
+one receptionist
+one dog
+one cat
+one horse
+one penguin
+one whale
+one mouse
+one spider
+one butterfly
+one bear
 two Mercury
 two Venus
 two Earth
@@ -4647,6 +5024,29 @@ two ship
 two train
 two rocket
 two rickshaw
+two Rafael Nadal
+two Taylor Swift
+two Joe Biden
+two Bill Gates
+two Meryl Streep
+two Marie Curie
+two chef
+two farmer
+two lawyer
+two engineer
+two doctor
+two pilot
+two teacher
+two receptionist
+two dog
+two cat
+two horse
+two penguin
+two whale
+two mouse
+two spider
+two butterfly
+two bear
 three Mercury
 three Venus
 three Earth
@@ -4789,6 +5189,29 @@ three ship
 three train
 three rocket
 three rickshaw
+three Rafael Nadal
+three Taylor Swift
+three Joe Biden
+three Bill Gates
+three Meryl Streep
+three Marie Curie
+three chef
+three farmer
+three lawyer
+three engineer
+three doctor
+three pilot
+three teacher
+three receptionist
+three dog
+three cat
+three horse
+three penguin
+three whale
+three mouse
+three spider
+three butterfly
+three bear
 four Mercury
 four Venus
 four Earth
@@ -4931,6 +5354,29 @@ four ship
 four train
 four rocket
 four rickshaw
+four Rafael Nadal
+four Taylor Swift
+four Joe Biden
+four Bill Gates
+four Meryl Streep
+four Marie Curie
+four chef
+four farmer
+four lawyer
+four engineer
+four doctor
+four pilot
+four teacher
+four receptionist
+four dog
+four cat
+four horse
+four penguin
+four whale
+four mouse
+four spider
+four butterfly
+four bear
 five Mercury
 five Venus
 five Earth
@@ -5073,3 +5519,26 @@ five ship
 five train
 five rocket
 five rickshaw
+five Rafael Nadal
+five Taylor Swift
+five Joe Biden
+five Bill Gates
+five Meryl Streep
+five Marie Curie
+five chef
+five farmer
+five lawyer
+five engineer
+five doctor
+five pilot
+five teacher
+five receptionist
+five dog
+five cat
+five horse
+five penguin
+five whale
+five mouse
+five spider
+five butterfly
+five bear
