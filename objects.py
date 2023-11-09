@@ -51,12 +51,12 @@ concert = [
     'orchestra'
 ]
 
-vegetable = [ 
-    'broccoli', 
-    'cabbage', 
-    'cauliflower', 
-    'lettuce', 
-    'spinach', 
+vegetable = [
+    'broccoli',
+    'cabbage',
+    'cauliflower',
+    'lettuce',
+    'spinach',
     'pea',
     'mushroom',
     'okra',
@@ -252,4 +252,30 @@ animals = [
     'spider',
     'butterfly',
     'bear'
+]
+
+utensils = [
+    'fork',
+    'knife',
+    'spoon',
+    'chopsticks',
+    'ladle',
+    'tongs',
+    'whisk',
+    'can opener',
+    'peeler',
+    'grater'
+]
+
+flowers = [
+    'rose',
+    'tulip',
+    'daisy',
+    'sunflower',
+    'lily',
+    'orchid',
+    'daffodil',
+    'carnation',
+    'hydrangea',
+    'peony'
 ]
