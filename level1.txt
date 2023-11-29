@@ -1,1077 +1,1077 @@
-a blue Mercury
-a yellow Venus
-a blue Earth
-a yellow Mars
-a green Jupiter
-a purple Saturn
-a yellow Uranus
-a purple Neptune
-a yellow Pluto
-a blue sun
+a green Mercury
+a green Venus
+a green Earth
+an orange Mars
+a pink Jupiter
+a yellow Saturn
+a green Uranus
+a blue Neptune
+a purple Pluto
+a purple sun
 a purple star
-a purple broccoli
-a blue cabbage
-an orange cauliflower
-an orange lettuce
+an orange broccoli
+a pink cabbage
+a green cauliflower
+a purple lettuce
 a pink spinach
 a green pea
-a green mushroom
-a green okra
-a blue onion
-a pink garlic
-a yellow bell pepper
-a pink chilli
+an orange mushroom
+a blue okra
+a pink onion
+a green garlic
+a pink bell pepper
+an orange chilli
 a purple carrot
-a yellow potato
-a pink tomato
-a purple pumpkin
-a blue cucumber
-an orange apple
-a pink banana
+a purple potato
+a purple tomato
+a pink pumpkin
+a purple cucumber
+a yellow apple
+a purple banana
 a blue blueberry
-a blue blackberry
+a yellow blackberry
 a pink cherry
-a pink coconut
+a purple coconut
 a yellow kiwi
-a green lime
-a green mango
-a yellow watermelon
-a green orange
-a pink peach
+a pink lime
+a purple mango
+an orange watermelon
+a yellow orange
+a yellow peach
 a pink rambutan
 a yellow strawberry
-a green water
-a green milk
+a purple water
+a purple milk
 a green coffee
-a purple juice
-a green bagel
+an orange juice
+a purple bagel
 a green bread
-a purple cake
+a green cake
 a yellow cheese
-a blue chips
-a yellow cookie
-a purple cupcake
-a purple donut
-a blue dumpling
-a yellow falafel
-an orange burger
-a yellow ice cream
-an orange noodles
-a yellow pizza
-a purple pancake
-an orange sandwich
-a blue samosa
-a purple waffle
+a purple chips
+an orange cookie
+a yellow cupcake
+a green donut
+an orange dumpling
+a pink falafel
+a yellow burger
+a blue ice cream
+a blue noodles
+a green pizza
+a yellow pancake
+a green sandwich
+a purple samosa
+a yellow waffle
 a purple table
 a yellow chair
-a green bed
-an orange couch
-an orange desk
+a purple bed
+a green couch
+a blue desk
 a blue bookshelf
-an orange wardrobe
-a blue armchair
-a green bench
-a blue shelf
-a green mountains
-an orange plains
-a green plateau
-a pink hill
-a yellow desert
-a purple forest
-an orange river
-a green ocean
-a yellow glacier
-an orange cliff
+a blue wardrobe
+an orange armchair
+an orange bench
+a pink shelf
+a purple mountains
+a yellow plains
+a blue plateau
+a purple hill
+a pink desert
+a pink forest
+a purple river
+a pink ocean
+a purple glacier
+a yellow cliff
 a yellow grassland
-a purple school
-a green hospital
+a green school
+a blue hospital
 a pink fire station
 a blue police station
-a blue post office
-a purple mall
-a green church
-an orange mosque
+a purple post office
+a green mall
+a blue church
+a purple mosque
 a green temple
 a green apartment
-a green house
-a green bank
-an orange factory
-a green Sydney Opera House
-a blue Eiffel Tower
-a blue Taj Mahal
-a blue Burj Khalifa
-a blue The Great Wall of China
-an orange The Leaning Tower of Pisa
-a pink Christ the Redeemer
-a green The Colosseum
-a green Statue of Liberty
-a purple fall
+a pink house
+a blue bank
+a green factory
+a pink Sydney Opera House
+a green Eiffel Tower
+a pink Taj Mahal
+a pink Burj Khalifa
+a yellow The Great Wall of China
+a green The Leaning Tower of Pisa
+a green Christ the Redeemer
+a blue The Colosseum
+a blue Statue of Liberty
+a blue fall
 a yellow winter
 a green spring
-a yellow summer
+an orange summer
 a blue pencil
-an orange pen
-a blue notebook
+a pink pen
+a pink notebook
 a purple scissors
-a pink ruler
-a pink paper
-a green paintbrushes
+a yellow ruler
+an orange paper
+a purple paintbrushes
 a purple envelope
-a purple tape
-a yellow car
-an orange bus
-a yellow ambulance
-a pink skateboard
-a yellow bicycle
-a blue motorcycle
-a blue fire engine
+an orange tape
+a purple car
+a purple bus
+an orange ambulance
+a blue skateboard
+a pink bicycle
+a pink motorcycle
+a green fire engine
 a purple truck
-an orange helicopter
-an orange airplane
+a purple helicopter
+a green airplane
 a blue hot-air balloon
 a blue boat
-a blue ship
+a yellow ship
 a green train
-a yellow rocket
-a yellow rickshaw
-a yellow dog
-an orange cat
-a green horse
-a purple penguin
-a pink whale
-a blue mouse
-a blue spider
-a yellow butterfly
-a pink bear
-a pink rose
-a purple tulip
-a pink daisy
-an orange sunflower
+a pink rocket
+a blue rickshaw
+a blue dog
+a pink cat
+a blue horse
+a blue penguin
+a blue whale
+a pink mouse
+a purple spider
+a purple butterfly
+an orange bear
+a yellow rose
+an orange tulip
+a yellow daisy
+a pink sunflower
 an orange lily
 a pink orchid
 an orange daffodil
-an orange carnation
-a green hydrangea
-a pink peony
-a yellow fork
-a pink knife
-an orange spoon
-an orange chopsticks
-a pink ladle
-a blue tongs
-an orange whisk
-a purple can opener
-a purple peeler
+a blue carnation
+an orange hydrangea
+a purple peony
+a purple fork
+an orange knife
+a green spoon
+a purple chopsticks
+a blue ladle
+an orange tongs
+a purple whisk
+a pink can opener
+a yellow peeler
 a pink grater
-a round Mercury
-a round Venus
+a pointy Mercury
+a square Venus
 a square Earth
-a rectangular Mars
+a circular Mars
 a rectangular Jupiter
 a round Saturn
-a pointy Uranus
-a square Neptune
+a square Uranus
+a rectangular Neptune
 a square Pluto
-a round broccoli
-a pointy cabbage
-a round cauliflower
-a circular lettuce
-a round spinach
-a pointy pea
+a rectangular broccoli
+a circular cabbage
+a square cauliflower
+a square lettuce
+a rectangular spinach
+a round pea
 a triangular mushroom
-a triangular okra
-a rectangular onion
+a square okra
+a pointy onion
 a square garlic
-a round bell pepper
-a rectangular chilli
-a rectangular carrot
+a square bell pepper
+a pointy chilli
+a round carrot
 a pointy potato
-a square tomato
-a round pumpkin
-a round cucumber
-a square apple
-a pointy banana
-a rectangular blueberry
+a round tomato
+a pointy pumpkin
+a triangular cucumber
+a triangular apple
+a round banana
+a triangular blueberry
 a round blackberry
-a square cherry
-a triangular coconut
-a circular kiwi
-a round lime
-a circular mango
-a circular watermelon
-a round orange
+a round cherry
+a pointy coconut
+a rectangular kiwi
+a triangular lime
+a pointy mango
+a pointy watermelon
+a square orange
 a pointy peach
-a circular rambutan
-a square strawberry
-a round bagel
-a pointy bread
-a pointy cake
-a rectangular cheese
-a square chips
+a rectangular rambutan
+a round strawberry
+a triangular bagel
+a circular bread
+a triangular cake
+a pointy cheese
+a rectangular chips
 a rectangular cookie
-a square cupcake
-a rectangular donut
-a pointy dumpling
-a rectangular falafel
-a rectangular burger
-a square ice cream
+a pointy cupcake
+a square donut
+a rectangular dumpling
+a round falafel
+a round burger
+a circular ice cream
 a rectangular noodles
-a circular pizza
-a square pancake
+a square pizza
+a triangular pancake
 a triangular sandwich
-a circular samosa
-a pointy waffle
-a round table
-a rectangular chair
-a square bed
-a pointy couch
-a triangular desk
-a square bookshelf
-a round wardrobe
-a rectangular armchair
-a circular bench
-a square shelf
-a round mountains
+a triangular samosa
+a rectangular waffle
+a pointy table
+a triangular chair
+a circular bed
+a square couch
+a square desk
+a round bookshelf
+a pointy wardrobe
+a triangular armchair
+a rectangular bench
+a round shelf
+a triangular mountains
 a triangular plains
-a square plateau
-a pointy hill
-a rectangular desert
-a square forest
-a triangular river
-a round ocean
-a rectangular glacier
-a triangular cliff
-a square grassland
-a square school
-a square hospital
-a triangular fire station
-a round police station
-a triangular post office
-a square mall
-a square church
-a round mosque
-a square temple
-a pointy apartment
-a pointy house
-a square bank
-a rectangular factory
-a round Sydney Opera House
-a pointy Eiffel Tower
+a circular plateau
+a circular hill
+a round desert
+a pointy forest
+a rectangular river
+a pointy ocean
+a square glacier
+a circular cliff
+a triangular grassland
+a circular school
+a triangular hospital
+a rectangular fire station
+a circular police station
+a square post office
+a rectangular mall
+a triangular church
+a pointy mosque
+a circular temple
+a circular apartment
+a circular house
+a round bank
+a pointy factory
+a circular Sydney Opera House
+a round Eiffel Tower
 a round Taj Mahal
 a square Burj Khalifa
-a round The Great Wall of China
-a triangular The Leaning Tower of Pisa
-a round Christ the Redeemer
-a circular The Colosseum
+a circular The Great Wall of China
+a square The Leaning Tower of Pisa
+a triangular Christ the Redeemer
+a pointy The Colosseum
 a rectangular Statue of Liberty
-a pointy pencil
+a square pencil
 a pointy pen
 a square notebook
-a rectangular scissors
-a triangular ruler
-a pointy paper
-a circular paintbrushes
-a round envelope
+a round scissors
+a square ruler
+a square paper
+a rectangular paintbrushes
+a rectangular envelope
 a pointy tape
-a triangular fork
-a circular knife
-a round spoon
-a triangular chopsticks
+a pointy fork
+a pointy knife
+a pointy spoon
+a circular chopsticks
 a rectangular ladle
-a square tongs
+a triangular tongs
 a pointy whisk
-a pointy can opener
-a circular peeler
-a triangular grater
+a round can opener
+a triangular peeler
+a rectangular grater
 a short Mercury
-a fat Venus
-a fat Earth
-a big Mars
-a big Jupiter
-a narrow Saturn
-a little Uranus
-a little Neptune
-a little Pluto
-a narrow sun
-a big star
-a narrow bachelor party
-a huge dance party
-a little karaoke party
-a big back to school party
-a narrow graduation party
-a short office party
-a big costume party
-a huge Christmas
-a little New Year
-a narrow 4th of July
-a little Easter
+a narrow Venus
+a short Earth
+a narrow Mars
+a little Jupiter
+a big Saturn
+a big Uranus
+a narrow Neptune
+a big Pluto
+a huge sun
+a narrow star
+a huge bachelor party
+a little dance party
+a fat karaoke party
+a huge back to school party
+a big graduation party
+a huge office party
+a fat costume party
+a fat Christmas
+a narrow New Year
+a little 4th of July
+a big Easter
 a fat Halloween
-a big Ramadan
+a little Ramadan
 a short Diwali
-a fat football game
-a huge basketball game
-a big tennis match
-a big chess game
-a short cricket match
-a fat rock concert
-a huge pop concert
-a little jazz concert
-a fat EDM concert
-a narrow orchestra
-a fat broccoli
+a short football game
+a little basketball game
+a fat tennis match
+a short chess game
+a narrow cricket match
+a short rock concert
+a narrow pop concert
+a short jazz concert
+a big EDM concert
+a short orchestra
+a short broccoli
 a huge cabbage
-a huge cauliflower
-a huge lettuce
-a big spinach
-a big pea
+a fat cauliflower
+a short lettuce
+a short spinach
+a narrow pea
 a big mushroom
 a little okra
 a huge onion
 a little garlic
 a huge bell pepper
-a fat chilli
+a narrow chilli
 a fat carrot
-a big potato
+a huge potato
 a big tomato
-a narrow pumpkin
-a little cucumber
+a fat pumpkin
+a huge cucumber
 a little apple
-a narrow banana
-a narrow blueberry
-a short blackberry
-a huge cherry
-a little coconut
-a little kiwi
-a short lime
-a big mango
+a fat banana
+a huge blueberry
+a big blackberry
+a narrow cherry
+a fat coconut
+a narrow kiwi
+a narrow lime
+a little mango
 a fat watermelon
-a huge orange
+a short orange
 a huge peach
-a narrow rambutan
-a little strawberry
-a narrow water
+a huge rambutan
+a big strawberry
+a huge water
 a short milk
-a little coffee
-a huge juice
-a big bagel
-a huge bread
-a fat cake
-a narrow cheese
-a narrow chips
-a huge cookie
-a huge cupcake
-a short donut
-a fat dumpling
-a big falafel
-a narrow burger
-a huge ice cream
-a big noodles
+a narrow coffee
+a little juice
+a narrow bagel
+a narrow bread
+a short cake
+a big cheese
+a little chips
+a fat cookie
+a big cupcake
+a huge donut
+a little dumpling
+a little falafel
+a fat burger
+a little ice cream
+a little noodles
 a huge pizza
-a huge pancake
-a little sandwich
-a big samosa
-a fat waffle
-a huge table
-a huge chair
+a big pancake
+a huge sandwich
+a fat samosa
+a little waffle
+a narrow table
+a short chair
 a narrow bed
-a short couch
-a narrow desk
-a fat bookshelf
-a big wardrobe
-a little armchair
+a big couch
+a big desk
+a huge bookshelf
+a huge wardrobe
+a big armchair
 a little bench
-a fat shelf
+a little shelf
 a little mountains
-a big plains
-a short plateau
-a huge hill
+a fat plains
+a huge plateau
+a fat hill
 a big desert
-a huge forest
-a big river
+a narrow forest
+a narrow river
 a huge ocean
-a little glacier
-a fat cliff
-a short grassland
-a fat school
-a short hospital
-a big fire station
-a little police station
-a fat post office
-a huge mall
-a little church
-a huge mosque
+a big glacier
+a big cliff
+a huge grassland
+a huge school
+a fat hospital
+a short fire station
+a short police station
+a little post office
+a little mall
+a narrow church
+a little mosque
 a fat temple
-a narrow apartment
+a fat apartment
 a short house
-a narrow bank
-a little factory
-a short Sydney Opera House
+a fat bank
+a narrow factory
+a big Sydney Opera House
 a big Eiffel Tower
-a big Taj Mahal
-a short Burj Khalifa
+a short Taj Mahal
+a big Burj Khalifa
 a fat The Great Wall of China
-a huge The Leaning Tower of Pisa
-a narrow Christ the Redeemer
-a short The Colosseum
-a little Statue of Liberty
+a fat The Leaning Tower of Pisa
+a little Christ the Redeemer
+a huge The Colosseum
+a huge Statue of Liberty
 a big pencil
-a short pen
-a little notebook
-a huge scissors
+a narrow pen
+a big notebook
+a fat scissors
 a big ruler
-a little paper
-a big paintbrushes
-a narrow envelope
-a narrow tape
-a narrow car
-a fat bus
-a little ambulance
-a big skateboard
-a narrow bicycle
-a huge motorcycle
-a short fire engine
-a big truck
+a short paper
+a fat paintbrushes
+a short envelope
+a huge tape
+a little car
+a short bus
+a huge ambulance
+a fat skateboard
+a huge bicycle
+a narrow motorcycle
+a narrow fire engine
+a huge truck
 a narrow helicopter
-a short airplane
-a narrow hot-air balloon
-a little boat
-a narrow ship
-a fat train
+a huge airplane
+a little hot-air balloon
+a short boat
+a big ship
+a narrow train
 a narrow rocket
-a little rickshaw
-a little dog
-a narrow cat
-a big horse
-a huge penguin
+a huge rickshaw
+a big dog
+a little cat
+a fat horse
+a fat penguin
 a narrow whale
 a narrow mouse
-a fat spider
-a fat butterfly
-a big bear
-a big rose
-a little tulip
-a huge daisy
-a huge sunflower
-a fat lily
-a huge orchid
-a fat daffodil
-a narrow carnation
-a fat hydrangea
-a little peony
-a little fork
-a fat knife
-a narrow spoon
-a huge chopsticks
-a short ladle
-a big tongs
-a little whisk
-a narrow can opener
-a huge peeler
+a big spider
+a big butterfly
+a huge bear
+a fat rose
+a huge tulip
+a short daisy
+a fat sunflower
+a little lily
+a big orchid
+a big daffodil
+a big carnation
+a huge hydrangea
+a huge peony
+a big fork
+a little knife
+a little spoon
+a short chopsticks
+a little ladle
+a little tongs
+a huge whisk
+a little can opener
+a fat peeler
 a fat grater
-a yellow Mercury
-a green Venus
-a yellow Earth
-a blue Mars
-a blue Jupiter
-a blue Saturn
-a pink Uranus
-a pink Neptune
-a blue Pluto
-a yellow sun
-a pink star
-a yellow broccoli
-a pink cabbage
-a blue cauliflower
-a yellow lettuce
-an orange spinach
-a blue pea
-a yellow mushroom
-a purple okra
-a purple onion
-an orange garlic
-a green bell pepper
-a blue chilli
-a purple carrot
-a yellow potato
-a pink tomato
-a blue pumpkin
-a green cucumber
-an orange apple
-a yellow banana
-a purple blueberry
-an orange blackberry
-a purple cherry
-an orange coconut
-an orange kiwi
-a blue lime
-a pink mango
-a purple watermelon
-a yellow orange
-a blue peach
-a green rambutan
-a blue strawberry
-a green water
-a pink milk
-a yellow coffee
-a purple juice
-a purple bagel
-a green bread
-a blue cake
-a pink cheese
-a yellow chips
-an orange cookie
-an orange cupcake
-a pink donut
-a green dumpling
-a purple falafel
-an orange burger
-a purple ice cream
-a yellow noodles
-a purple pizza
-a purple pancake
-a purple sandwich
-a purple samosa
-a green waffle
-a yellow table
-an orange chair
-a purple bed
-a green couch
-a purple desk
-a green bookshelf
-a green wardrobe
-a blue armchair
-a pink bench
-a green shelf
-a yellow mountains
-a blue plains
-a pink plateau
-an orange hill
-a purple desert
-a purple forest
-a purple river
-a yellow ocean
-a purple glacier
-a green cliff
-a yellow grassland
-an orange school
-a pink hospital
-a pink fire station
-a pink police station
-a purple post office
-a blue mall
-an orange church
-a yellow mosque
-a pink temple
-a blue apartment
-a purple house
-a blue bank
-a green factory
-an orange Sydney Opera House
-a green Eiffel Tower
-a purple Taj Mahal
-a blue Burj Khalifa
-a pink The Great Wall of China
-a green The Leaning Tower of Pisa
-a green Christ the Redeemer
-a pink The Colosseum
-a purple Statue of Liberty
-a pink fall
-a purple winter
-a purple spring
-a blue summer
-a green pencil
-a yellow pen
-a green notebook
-a green scissors
-a pink ruler
-an orange paper
-a yellow paintbrushes
-a green envelope
-a blue tape
-a pink car
-a purple bus
-an orange ambulance
-a blue skateboard
-an orange bicycle
-a yellow motorcycle
-a blue fire engine
-a purple truck
-an orange helicopter
-a green airplane
-a purple hot-air balloon
-an orange boat
-a pink ship
-a green train
-a green rocket
-a blue rickshaw
-a pink dog
-a green cat
-a pink horse
-a purple penguin
-a pink whale
-a pink mouse
-a yellow spider
-a pink butterfly
-an orange bear
-a pink rose
-a green tulip
-a pink daisy
-a pink sunflower
-a green lily
-a yellow orchid
-a green daffodil
-a green carnation
-a blue hydrangea
-an orange peony
-a purple fork
-a blue knife
-a pink spoon
-a purple chopsticks
-a green ladle
-a green tongs
-a yellow whisk
-a yellow can opener
-a pink peeler
-an orange grater
-an unripe broccoli
-an unripe cabbage
-a freshripe cauliflower
-an unripe lettuce
-an unripe spinach
-a freshripe pea
-a rotten mushroom
-a rotten okra
-an unripe onion
-a freshripe garlic
-an unripe bell pepper
-a rotten chilli
-a freshripe carrot
-a freshripe potato
-a rotten tomato
-an unripe pumpkin
-an unripe cucumber
-a freshripe apple
-an unripe banana
-an unripe blueberry
-a freshripe blackberry
-a rotten cherry
-an unripe coconut
-a rotten kiwi
-a rotten lime
-an unripe mango
-a freshripe watermelon
-a freshripe orange
-a rotten peach
-a freshripe rambutan
-an unripe strawberry
 a pink Mercury
-an orange Venus
-a yellow Earth
-a blue Mars
-a yellow Jupiter
-a green Saturn
-a blue Uranus
-a blue Neptune
-a purple Pluto
-a green sun
-a yellow star
-a blue broccoli
-a blue cabbage
-an orange cauliflower
+a pink Venus
+a green Earth
+a purple Mars
+an orange Jupiter
+a purple Saturn
+a pink Uranus
+an orange Neptune
+a pink Pluto
+a blue sun
+a green star
+a purple broccoli
+a purple cabbage
+a pink cauliflower
 an orange lettuce
 a yellow spinach
-a purple pea
-a green mushroom
+a yellow pea
+a purple mushroom
 an orange okra
-a yellow onion
+a purple onion
 a blue garlic
-a blue bell pepper
-a pink chilli
-an orange carrot
+an orange bell pepper
+a yellow chilli
+a yellow carrot
 a yellow potato
 a pink tomato
-a blue pumpkin
-a purple cucumber
-a purple apple
-a purple banana
+an orange pumpkin
+a yellow cucumber
+a green apple
+a pink banana
 a purple blueberry
-a purple blackberry
-a purple cherry
-a yellow coconut
-a pink kiwi
-a purple lime
+a yellow blackberry
+a blue cherry
+a green coconut
+a purple kiwi
+a pink lime
 a purple mango
-a yellow watermelon
-a green orange
-a green peach
-a green rambutan
-a pink strawberry
-a purple water
-a purple milk
-a yellow coffee
-a green juice
+a green watermelon
+an orange orange
+a blue peach
+a purple rambutan
+a green strawberry
+a green water
+a pink milk
+a green coffee
+an orange juice
 a pink bagel
 a purple bread
 a purple cake
-an orange cheese
-a blue chips
-a blue cookie
-a yellow cupcake
-a purple donut
+a pink cheese
+an orange chips
+a yellow cookie
+a pink cupcake
+a yellow donut
 a purple dumpling
-an orange falafel
+a pink falafel
 a green burger
 a purple ice cream
-a yellow noodles
+a purple noodles
 a pink pizza
 a pink pancake
-a blue sandwich
-a purple samosa
-a green waffle
+a pink sandwich
+a yellow samosa
+a pink waffle
 a yellow table
-a purple chair
+a yellow chair
 a yellow bed
 an orange couch
-an orange desk
-an orange bookshelf
-a pink wardrobe
-a blue armchair
-a green bench
-a green shelf
-a green mountains
-a yellow plains
-an orange plateau
+a yellow desk
+a green bookshelf
+a yellow wardrobe
+a purple armchair
+a pink bench
+an orange shelf
+a blue mountains
+a pink plains
+a pink plateau
 a blue hill
-a blue desert
-a pink forest
-an orange river
-a yellow ocean
-a blue glacier
+a pink desert
+an orange forest
+a blue river
+an orange ocean
+a pink glacier
 a yellow cliff
+a pink grassland
+a blue school
+a blue hospital
+a blue fire station
+a pink police station
+a blue post office
+a purple mall
+a yellow church
+an orange mosque
+a yellow temple
+a yellow apartment
+a blue house
+a yellow bank
+a yellow factory
+an orange Sydney Opera House
+a purple Eiffel Tower
+a purple Taj Mahal
+a yellow Burj Khalifa
+a yellow The Great Wall of China
+a purple The Leaning Tower of Pisa
+an orange Christ the Redeemer
+a yellow The Colosseum
+a blue Statue of Liberty
+a blue fall
+a purple winter
+a purple spring
+a pink summer
+a pink pencil
+a purple pen
+a blue notebook
+a pink scissors
+a blue ruler
+an orange paper
+a yellow paintbrushes
+a pink envelope
+a purple tape
+an orange car
+a pink bus
+a green ambulance
+a yellow skateboard
+an orange bicycle
+a pink motorcycle
+a pink fire engine
+a pink truck
+a blue helicopter
+a blue airplane
+a blue hot-air balloon
+a blue boat
+a blue ship
+an orange train
+a yellow rocket
+a yellow rickshaw
+an orange dog
+an orange cat
+a yellow horse
+a yellow penguin
+a green whale
+a green mouse
+a green spider
+a purple butterfly
+a purple bear
+an orange rose
+a blue tulip
+a pink daisy
+an orange sunflower
+a blue lily
+a purple orchid
+a green daffodil
+a pink carnation
+a pink hydrangea
+a pink peony
+a yellow fork
+a purple knife
+a yellow spoon
+an orange chopsticks
+a blue ladle
+a purple tongs
+a purple whisk
+a yellow can opener
+a pink peeler
+a green grater
+an unripe broccoli
+a freshripe cabbage
+an unripe cauliflower
+a freshripe lettuce
+a freshripe spinach
+a freshripe pea
+a freshripe mushroom
+a rotten okra
+a freshripe onion
+a freshripe garlic
+a rotten bell pepper
+an unripe chilli
+a rotten carrot
+a freshripe potato
+an unripe tomato
+an unripe pumpkin
+an unripe cucumber
+an unripe apple
+a rotten banana
+an unripe blueberry
+an unripe blackberry
+an unripe cherry
+a rotten coconut
+a rotten kiwi
+a freshripe lime
+a freshripe mango
+an unripe watermelon
+a freshripe orange
+a rotten peach
+a rotten rambutan
+a freshripe strawberry
+a purple Mercury
+a purple Venus
+a yellow Earth
+an orange Mars
+a pink Jupiter
+a purple Saturn
+a green Uranus
+a yellow Neptune
+a purple Pluto
+a blue sun
+a green star
+a green broccoli
+a yellow cabbage
+a purple cauliflower
+a yellow lettuce
+a blue spinach
+an orange pea
+a blue mushroom
+a yellow okra
+a pink onion
+a blue garlic
+a yellow bell pepper
+a pink chilli
+a blue carrot
+a green potato
+a purple tomato
+a yellow pumpkin
+an orange cucumber
+an orange apple
+a purple banana
+a blue blueberry
+a blue blackberry
+a yellow cherry
+a green coconut
+a pink kiwi
+a yellow lime
+an orange mango
+an orange watermelon
+a blue orange
+a yellow peach
+a purple rambutan
+a pink strawberry
+an orange water
+an orange milk
+a yellow coffee
+a yellow juice
+a pink bagel
+a purple bread
+a pink cake
+an orange cheese
+a blue chips
+a purple cookie
+a blue cupcake
+a green donut
+a yellow dumpling
+a pink falafel
+an orange burger
+a pink ice cream
+a purple noodles
+a purple pizza
+a yellow pancake
+a blue sandwich
+an orange samosa
+a yellow waffle
+a purple table
+an orange chair
+a yellow bed
+a purple couch
+a pink desk
+a yellow bookshelf
+a purple wardrobe
+a yellow armchair
+a pink bench
+a pink shelf
+a purple mountains
+a yellow plains
+a pink plateau
+a yellow hill
+a purple desert
+a green forest
+a purple river
+a yellow ocean
+an orange glacier
+a blue cliff
 a blue grassland
 a pink school
 a yellow hospital
-a purple fire station
-a green police station
-a purple post office
-a yellow mall
+an orange fire station
+a purple police station
+a blue post office
+a purple mall
 a purple church
 a green mosque
-a yellow temple
-a purple apartment
+a green temple
+a blue apartment
 a yellow house
 a purple bank
-a yellow factory
+a purple factory
 a purple Sydney Opera House
-a purple Eiffel Tower
-a yellow Taj Mahal
-a purple Burj Khalifa
-a green The Great Wall of China
-a purple The Leaning Tower of Pisa
-a pink Christ the Redeemer
-a purple The Colosseum
-a yellow Statue of Liberty
-a purple fall
-a blue winter
-a purple spring
-an orange summer
-a yellow pencil
-a blue pen
-a yellow notebook
-a yellow scissors
-a yellow ruler
-a green paper
-a blue paintbrushes
-a blue envelope
-a green tape
-a green car
-a blue bus
+a pink Eiffel Tower
+an orange Taj Mahal
+a green Burj Khalifa
+a yellow The Great Wall of China
+a green The Leaning Tower of Pisa
+a green Christ the Redeemer
+a yellow The Colosseum
+an orange Statue of Liberty
+a blue fall
+a yellow winter
+a pink spring
+a yellow summer
+a pink pencil
+a purple pen
+a purple notebook
+an orange scissors
+a purple ruler
+an orange paper
+a yellow paintbrushes
+a pink envelope
+a yellow tape
+a purple car
+a green bus
 a blue ambulance
-a green skateboard
-a pink bicycle
-a blue motorcycle
-an orange fire engine
-a blue truck
-a pink helicopter
-a blue airplane
-a blue hot-air balloon
-a green boat
-a pink ship
-an orange train
+a yellow skateboard
+a green bicycle
+an orange motorcycle
+a green fire engine
+a yellow truck
+a yellow helicopter
+an orange airplane
+a pink hot-air balloon
+a blue boat
+an orange ship
+a blue train
 a yellow rocket
-a green rickshaw
-a yellow dog
-a purple cat
-a green horse
+a pink rickshaw
+a green dog
+a yellow cat
+a yellow horse
 a yellow penguin
-a green whale
-a yellow mouse
-a blue spider
-a purple butterfly
-a green bear
-a blue rose
+a yellow whale
+a pink mouse
+a yellow spider
+a blue butterfly
+a blue bear
+an orange rose
 a purple tulip
-a pink daisy
+a purple daisy
 a green sunflower
-a blue lily
-a yellow orchid
-a blue daffodil
-a blue carnation
-a yellow hydrangea
-a green peony
-a purple fork
-a blue knife
-a yellow spoon
-a green chopsticks
-a blue ladle
+a yellow lily
+a green orchid
+a pink daffodil
+a yellow carnation
+a green hydrangea
+a pink peony
+a green fork
+a pink knife
+a green spoon
+an orange chopsticks
+a purple ladle
 a pink tongs
 a yellow whisk
-a purple can opener
-a purple peeler
-a purple grater
+an orange can opener
+a pink peeler
+a yellow grater
 a bold bachelor party
-a happy dance party
-a bold karaoke party
+a bold dance party
+a happy karaoke party
 a brave back to school party
-a brave graduation party
-a brave office party
-a bold costume party
-a happy Christmas
-a bold New Year
-a bold 4th of July
-a bold Easter
+a happy graduation party
+a happy office party
+a cheerful costume party
+an excited Christmas
+a brave New Year
+an upbeat 4th of July
+an excited Easter
 an upbeat Halloween
-a cheerful Ramadan
-a happy Diwali
-an upbeat football game
-a happy basketball game
-an upbeat tennis match
-a happy chess game
-an excited cricket match
-an excited rock concert
-an upbeat pop concert
-an excited jazz concert
-a bold EDM concert
-an upbeat orchestra
-a brave fall
-a cheerful winter
+a brave Ramadan
+a bold Diwali
+an excited football game
+an upbeat basketball game
+a cheerful tennis match
+an excited chess game
+a brave cricket match
+a bold rock concert
+a brave pop concert
+an upbeat jazz concert
+a happy EDM concert
+a cheerful orchestra
+an excited fall
+a brave winter
 an excited spring
-a brave summer
-an excited sunny weather
-a cheerful clear sky
-an excited cloudy sky
-a happy overcast sky
-a happy rain
-a bold snow
-a bold tornado
-an upbeat fog
-an excited sandstorm
-a brave hailstorm
-an upbeat Rafael Nadal
-a bold Taylor Swift
-an upbeat Joe Biden
-a happy Bill Gates
-an excited Meryl Streep
-a bold Marie Curie
-an upbeat chef
-a bold farmer
-a cheerful lawyer
-an excited engineer
-a brave doctor
+a happy summer
+a happy sunny weather
+an excited clear sky
+a brave cloudy sky
+an excited overcast sky
+a cheerful rain
+an upbeat snow
+a cheerful tornado
+a cheerful fog
+an upbeat sandstorm
+a happy hailstorm
+a cheerful Rafael Nadal
+a happy Taylor Swift
+a bold Joe Biden
+a bold Bill Gates
+an upbeat Meryl Streep
+an upbeat Marie Curie
+a cheerful chef
+a happy farmer
+a bold lawyer
+a happy engineer
+an upbeat doctor
 an excited pilot
-a bold teacher
-an excited receptionist
+a happy teacher
+a bold receptionist
 an upbeat dog
-a happy cat
-an excited horse
-a cheerful penguin
-a bold whale
+a brave cat
+a happy horse
+an excited penguin
+an upbeat whale
 an excited mouse
-a brave spider
+an excited spider
 an excited butterfly
-a bold bear
-three Mercury
-four Venus
-three Earth
-four Mars
-three Jupiter
-one Saturn
-one Uranus
-two Neptune
-two Pluto
-two sun
+a happy bear
+two Mercury
+two Venus
+five Earth
+one Mars
+five Jupiter
+five Saturn
+four Uranus
+one Neptune
+four Pluto
+one sun
 five star
-four football game
+two football game
 five basketball game
-five tennis match
+one tennis match
 one chess game
-three cricket match
-four rock concert
+four cricket match
+one rock concert
 three pop concert
-four jazz concert
-five EDM concert
-three orchestra
-four broccoli
-one cabbage
+two jazz concert
+three EDM concert
+four orchestra
+three broccoli
+five cabbage
 three cauliflower
-three lettuce
-one spinach
-one pea
-two mushroom
+one lettuce
+four spinach
+three pea
+five mushroom
 five okra
-five onion
-two garlic
-four bell pepper
-five chilli
-one carrot
+two onion
+five garlic
+five bell pepper
+three chilli
+four carrot
 three potato
-one tomato
-four pumpkin
-two cucumber
+two tomato
+three pumpkin
+one cucumber
 three apple
-one banana
-four blueberry
-three blackberry
-five cherry
-four coconut
+four banana
+one blueberry
+two blackberry
+two cherry
+five coconut
 four kiwi
-five lime
-four mango
-five watermelon
-three orange
-one peach
-five rambutan
+three lime
+three mango
+one watermelon
+one orange
+two peach
+one rambutan
 one strawberry
-three water
+four water
 one milk
 two coffee
-two juice
+three juice
 five bagel
-four bread
+two bread
 one cake
 four cheese
-four chips
-five cookie
-two cupcake
-four donut
-five dumpling
-five falafel
-five burger
-four ice cream
-three noodles
-four pizza
+three chips
+one cookie
+five cupcake
+one donut
+two dumpling
+two falafel
+one burger
+three ice cream
+five noodles
+three pizza
 four pancake
-two sandwich
+four sandwich
 four samosa
-one waffle
-two table
+four waffle
+four table
 five chair
-two bed
+five bed
 one couch
 five desk
-four bookshelf
-four wardrobe
-two armchair
-one bench
-five shelf
-one mountains
-one plains
-one plateau
-two hill
-three desert
-three forest
+three bookshelf
+five wardrobe
+three armchair
+two bench
+one shelf
+three mountains
+five plains
+two plateau
+four hill
+four desert
+one forest
 one river
-two ocean
-one glacier
-three cliff
-two grassland
-five school
-one hospital
-one fire station
-five police station
+one ocean
+five glacier
+one cliff
+three grassland
+one school
+four hospital
+five fire station
+three police station
 one post office
 three mall
-three church
-five mosque
-four temple
-three apartment
-one house
-five bank
-five factory
+five church
+four mosque
+three temple
+five apartment
+five house
+three bank
+one factory
 one Sydney Opera House
-four Eiffel Tower
+three Eiffel Tower
 two Taj Mahal
-three Burj Khalifa
+four Burj Khalifa
 four The Great Wall of China
-two The Leaning Tower of Pisa
-five Christ the Redeemer
-one The Colosseum
-one Statue of Liberty
-two pencil
-three pen
+one The Leaning Tower of Pisa
+four Christ the Redeemer
+two The Colosseum
+three Statue of Liberty
+one pencil
+four pen
 four notebook
-three scissors
-four ruler
+five scissors
+one ruler
 two paper
-five paintbrushes
-one envelope
-five tape
-three car
-five bus
-four ambulance
-one skateboard
-four bicycle
-three motorcycle
-two fire engine
-four truck
+three paintbrushes
+five envelope
+one tape
+four car
+two bus
+three ambulance
+five skateboard
+three bicycle
+five motorcycle
+five fire engine
+one truck
 one helicopter
-five airplane
-five hot-air balloon
-two boat
-four ship
-five train
-three rocket
-five rickshaw
-two Rafael Nadal
-five Taylor Swift
-one Joe Biden
+three airplane
+four hot-air balloon
+one boat
+five ship
+four train
+four rocket
+one rickshaw
+four Rafael Nadal
+three Taylor Swift
+four Joe Biden
 three Bill Gates
-five Meryl Streep
-three Marie Curie
-four chef
-four farmer
-one lawyer
-two engineer
-two doctor
-one pilot
-one teacher
-five receptionist
-three dog
-two cat
-one horse
-three penguin
-three whale
-one mouse
+two Meryl Streep
+five Marie Curie
+three chef
+five farmer
+five lawyer
+four engineer
+one doctor
+three pilot
+three teacher
+one receptionist
+five dog
+one cat
+four horse
+two penguin
+one whale
+two mouse
 one spider
-five butterfly
+two butterfly
 three bear
-one rose
-five tulip
-four daisy
-one sunflower
-one lily
-two orchid
-three daffodil
-two carnation
-one hydrangea
+three rose
+four tulip
+two daisy
+three sunflower
+two lily
+five orchid
+one daffodil
+one carnation
+four hydrangea
 two peony
-five fork
-five knife
-three spoon
+two fork
+three knife
+one spoon
 three chopsticks
-five ladle
-four tongs
+one ladle
+one tongs
 five whisk
 five can opener
-four peeler
-one grater
+one peeler
+three grater
